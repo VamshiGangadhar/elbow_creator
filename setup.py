@@ -10,7 +10,6 @@ setup(
         'mathutils',
         'math'
     ],
-    install_requires=[],
     entry_points={
         'console_scripts': [
             'create_elbow=elbow_creator.elbow_creator:create_elbow',
