@@ -7,8 +7,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'bpy',
-        'mathutils',
-        'math'
+        'mathutils'
     ],
     entry_points={
         'console_scripts': [
